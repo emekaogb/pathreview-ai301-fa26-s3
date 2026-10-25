@@ -1,0 +1,1 @@
+I'd like to work on this issue. I'll investigate why the indented README fixture produces no headings, reproduce the behavior against the current parser, and share the steps and evidence here. I haven't confirmed the root cause yet.
